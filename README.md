@@ -7,7 +7,8 @@
 
 ****Brief of the project :****
 
-                ##  This  Notebook, Cust_Purch_Data_Exercise_assignment.ipynb, is designed to analyze customer purchase data. It includes data cleaning, exploratory data analysis , and predictive modeling .
+                ##  This  Notebook, Cust_Purch_Data_Exercise_assignment.ipynb, is designed to analyze customer purchase data.   
+                ##  It includes data cleaning, exploratory data analysis , and predictive modeling .  
 
                 
 
