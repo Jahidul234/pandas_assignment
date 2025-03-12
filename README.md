@@ -12,19 +12,25 @@
                 
 
 ****Features: ****
-                ## Data preprocessing 
-                ## Exploratory Data Analysis (EDA) 
-                ## Statistical analysis and possible machine learning models
-                ## Business insights and possible outcomes.
+
+
+                ## Data preprocessing   
+                ## Exploratory Data Analysis (EDA)   
+                ## Statistical analysis and possible machine learning models  
+                ## Business insights and possible outcomes.  
 
                 
 
 
 **Dataset: **
-              ## The dataset is based on customers purchased record.
-              ## Confirm that the data set is  placed in correct directory.
+
+
+              ## The dataset is based on customers purchased record.  
+              ## Confirm that the data set is  placed in correct directory.  
 
               
 
 **Analyst :**
-            Md.Jahdiul Alam, 12-03-2025
+
+  
+            Md.Jahdiul Alam, 12-03-2025  
